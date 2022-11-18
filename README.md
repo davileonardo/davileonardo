@@ -1,4 +1,6 @@
-### Olá! Sou Davi Leonardo👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Davi+Leonardo;I'm+23+years+old;I+am+from+Brazil;I+am+student+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 <div align="center">
   <a href="https://github.com/davileonardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davileonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,6 +30,12 @@
  
 
  
+</div>
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davileonardo}/count.svg" /></p> 
+<br>
 </div>
 
   
